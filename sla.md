@@ -40,4 +40,4 @@
 
     5. **"SLA"** means these SLA Standard Terms as incorporated into the applicable Order Form.
 
-    6. **"SLA Standard Terms"** means these Common Paper Service Level Agreement Standard Terms Version 2.0, which are posted at [https://commonpaper.com/standards/service-level-agreement/2.0/](https://commonpaper.com/standards/service-level-agreement/2.0/).
+    6. **"SLA Standard Terms"** means these Common Paper Service Level Agreement Standard Terms Version 2.0, which are posted at <https://commonpaper.com/standards/service-level-agreement/2.0/>.
